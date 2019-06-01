@@ -12,7 +12,7 @@ describe("Concert", () => {
     expect(concert).toEqual(expect.any(Concert));
   });
 
-  it("should find some events", () => {
+  it("should find some events", () =>
     expect(concert.find("Journey")).resolves.toEqual(
       expect.arrayContaining([
         expect.objectContaining({
@@ -21,6 +21,5 @@ describe("Concert", () => {
           date: expect.stringMatching(/^\d\d\/\d\d\/\d\d\d\d$/)
         })
       ])
-    );
-  });
+    ));
 });

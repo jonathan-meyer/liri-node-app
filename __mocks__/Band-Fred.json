@@ -1,0 +1,26 @@
+[
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1013839942?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Kulturhalle Stockheim",
+      "country": "Germany",
+      "region": "",
+      "city": "Glauburg",
+      "latitude": "50.3166667",
+      "longitude": "9.0"
+    },
+    "datetime": "2019-08-14T20:15:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Fred"],
+    "id": "1013839942",
+    "artist_id": "155045",
+    "url": "https://www.bandsintown.com/e/1013839942?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  }
+]

@@ -1,0 +1,386 @@
+[
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014944307?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Lucille - Rocks Off Concert Cruise",
+      "country": "United States",
+      "region": "NY",
+      "city": "New York",
+      "latitude": "40.7141667",
+      "longitude": "-74.0063889"
+    },
+    "datetime": "2019-08-24T19:00:00",
+    "on_sale_datetime": "2019-04-25T10:00:01",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014944307",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014944307?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014947838?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Hard Rock Live at Etess Arena",
+      "country": "United States",
+      "region": "NJ",
+      "city": "Atlantic City",
+      "latitude": "39.3641667",
+      "longitude": "-74.4233333"
+    },
+    "datetime": "2019-09-27T20:00:00",
+    "on_sale_datetime": "2019-05-10T10:00:00",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014947838",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014947838?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014947533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Hard Rock Live at Etess Arena",
+      "country": "United States",
+      "region": "NJ",
+      "city": "Atlantic City",
+      "latitude": "39.3641667",
+      "longitude": "-74.4233333"
+    },
+    "datetime": "2019-09-28T20:00:00",
+    "on_sale_datetime": "2019-05-10T10:00:00",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014947533",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014947533?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014944339?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Sands Bethlehem Event Center",
+      "country": "United States",
+      "region": "PA",
+      "city": "Bethlehem",
+      "latitude": "40.615424",
+      "longitude": "-75.359412"
+    },
+    "datetime": "2019-10-01T19:30:00",
+    "on_sale_datetime": "2019-05-10T10:00:00",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014944339",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014944339?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014943966?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Seneca Niagara Resort and Casino Outdoor Venue",
+      "country": "United States",
+      "region": "NY",
+      "city": "Niagara Falls",
+      "latitude": "43.0944444",
+      "longitude": "-79.0569444"
+    },
+    "datetime": "2019-10-02T20:00:00",
+    "on_sale_datetime": "2019-05-10T12:00:00",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014943966",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014943966?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014948410?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Mohegan Sun Arena",
+      "country": "United States",
+      "region": "CT",
+      "city": "Uncasville",
+      "latitude": "41.4915974",
+      "longitude": "-72.0914563"
+    },
+    "datetime": "2019-10-04T20:00:00",
+    "on_sale_datetime": "2019-05-10T12:00:00",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014948410",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014948410?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/1014945331?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "Mohegan Sun Arena",
+      "country": "United States",
+      "region": "CT",
+      "city": "Uncasville",
+      "latitude": "41.4915974",
+      "longitude": "-72.0914563"
+    },
+    "datetime": "2019-10-05T20:00:00",
+    "on_sale_datetime": "2019-05-10T12:00:00",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "1014945331",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/1014945331?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060539?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Colosseum at Caesars",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.175",
+      "longitude": "-115.1363889"
+    },
+    "datetime": "2019-10-09T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060539",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060539?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Colosseum at Caesars",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.175",
+      "longitude": "-115.1363889"
+    },
+    "datetime": "2019-10-11T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060540",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060540?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060541?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "The Colosseum at Caesars",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.175",
+      "longitude": "-115.1363889"
+    },
+    "datetime": "2019-10-12T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060541",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060541?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060542?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "THE COLOSSEUM AT CAESARS PALACE",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.11714",
+      "longitude": "-115.173154"
+    },
+    "datetime": "2019-10-16T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060542",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060542?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060543?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "THE COLOSSEUM AT CAESARS PALACE",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.11714",
+      "longitude": "-115.173154"
+    },
+    "datetime": "2019-10-18T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060543",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060543?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "THE COLOSSEUM AT CAESARS PALACE",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.11714",
+      "longitude": "-115.173154"
+    },
+    "datetime": "2019-10-19T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060546",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060546?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060544?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "THE COLOSSEUM AT CAESARS PALACE",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.11714",
+      "longitude": "-115.173154"
+    },
+    "datetime": "2019-10-23T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060544",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060544?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060547?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "THE COLOSSEUM AT CAESARS PALACE",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.11714",
+      "longitude": "-115.173154"
+    },
+    "datetime": "2019-10-25T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060547",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060547?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  },
+  {
+    "offers": [
+      {
+        "type": "Tickets",
+        "url": "https://www.bandsintown.com/t/101060545?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=ticket",
+        "status": "available"
+      }
+    ],
+    "venue": {
+      "name": "THE COLOSSEUM AT CAESARS PALACE",
+      "country": "United States",
+      "region": "NV",
+      "city": "Las Vegas",
+      "latitude": "36.11714",
+      "longitude": "-115.173154"
+    },
+    "datetime": "2019-10-26T19:00:00",
+    "on_sale_datetime": "",
+    "description": "",
+    "lineup": ["Journey"],
+    "id": "101060545",
+    "artist_id": "228",
+    "url": "https://www.bandsintown.com/e/101060545?app_id=codingbootcamp&came_from=267&utm_medium=api&utm_source=public_api&utm_campaign=event"
+  }
+]
