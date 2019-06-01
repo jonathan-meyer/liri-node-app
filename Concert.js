@@ -1,17 +1,29 @@
 const axios = require("axios");
 const moment = require("moment");
-/**
- * `"https://rest.bandsintown.com/artists/" + artist + "/events?app_id=codingbootcamp"`
- */
+const querystring = require("querystring");
 
 module.exports = function(keys) {
   if (keys === undefined) {
     throw "keys are required";
   }
 
-  this.keys = keys;
-
-  this.find = concert => {
-    return concert;
-  };
+  this.find = artist =>
+    axios
+      .get(
+        [
+          `${keys.url}/artists/${artist}/events`,
+          querystring.stringify({ app_id: keys.app_id })
+        ].join("?")
+      )
+      .then(res => res.data)
+      .then(data => {
+        return data.map(event => ({
+          venue: event.venue.name,
+          location: `${event.venue.city}, ${event.venue.region} ${
+            event.venue.country
+          }`,
+          date: moment(event.datetime).format("MM/DD/YYYY")
+        }));
+      })
+      .catch(console.error);
 };

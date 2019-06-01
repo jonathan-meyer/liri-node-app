@@ -5,14 +5,22 @@ describe("Concert", () => {
   let concert;
 
   beforeEach(() => {
-    concert = new Concert(keys.concert);
+    concert = new Concert(keys.bandsintown);
   });
 
-  it("instantiates without errors", () => {
+  it("should instantiate without errors", () => {
     expect(concert).toEqual(expect.any(Concert));
   });
 
-  it("can find a concert", () => {
-    expect(concert.find("Journey")).toEqual(expect.anything());
+  it("should find some events", () => {
+    expect(concert.find("Journey")).resolves.toEqual(
+      expect.arrayContaining([
+        expect.objectContaining({
+          venue: expect.any(String),
+          location: expect.any(String),
+          date: expect.stringMatching(/^\d\d\/\d\d\/\d\d\d\d$/)
+        })
+      ])
+    );
   });
 });
