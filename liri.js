@@ -1,9 +1,9 @@
-const keys = require("./keys");
+const keys = require("./lib/keys");
 
-const Concert = require("./Concert");
-const Spotify = require("./Spotify");
-const Movie = require("./Movie");
-const Script = require("./Script");
+const Concert = require("./lib/Concert");
+const Spotify = require("./lib/Spotify");
+const Movie = require("./lib/Movie");
+const Script = require("./lib/Script");
 
 const cmds = {
   "concert-this": artist => new Concert(keys.bandsintown).find(artist),
