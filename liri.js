@@ -15,7 +15,9 @@ const cmds = {
 const [, , cmd, ...arg] = process.argv;
 
 if (typeof cmds[cmd] === "function") {
-  cmds[cmd](arg.join(" ")).then(console.log);
+  cmds[cmd](arg.join(" "))
+    .then(console.log)
+    .catch(console.error);
 } else {
   console.log("");
   console.log("LIRI (Language Interpretation and Recognition Interface)");
